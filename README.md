@@ -1,1 +1,1 @@
-# LAS
+UYGULAMA meyvelri ayrıt edebiliyor
